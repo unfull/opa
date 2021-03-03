@@ -1,0 +1,45 @@
+body {
+  background: ;
+}
+.header {
+   display: flex;
+   justify-content: space-between;
+}
+.header__news{
+    width: 150px;
+    height: 40px;
+    left: 55px;
+    top: 110px;
+}
+
+.header__allnews{
+    width: 121px;
+    height: 20px;
+    left: 1199px;
+    top: 110px;
+}
+
+.block__news{
+    width: 1375px;
+    height: 372px;
+    left: 55px;
+    top: 205px;
+   display: flex; 
+}
+.news{
+    width: 25%;
+    border-left: 1px solid #ccc; 
+    margin-left: 0px; 
+    padding-left: 10px;
+    
+}
+.down{
+    padding-top: 510px;
+
+}
+.line{
+
+
+
+
+}
